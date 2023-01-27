@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.avatar-url {
+  width: 70px;
+}
+.each-list {
+  background-color: #f8f8ff;
+  border-radius: 8px;
+  list-style-type: none;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 30%;
+  padding: 10px;
+}
+.name {
+  color: #e73959;
+  font-size: 16px;
+}
+.p {
+  font-size: 11px;
+}
+.stars {
+  width: 11px;
+  margin-right: 5px;
+}
+.div1 {
+  display: flex;
+  align-items: center;
+}

@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.each-tab {
+  list-style-type: none;
+  color: #0f172a;
+  font-weight: 700;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  margin-right: 15px;
+  cursor: pointer;
+}
+.list-item {
+  list-style-type: none;
+}
+.tab-class {
+  border: 1px solid #0284c7;
+  border-radius: 7px;
+  padding: 3px;
+  color: #0284c7;
+}
